@@ -18,6 +18,7 @@ def frenchToEnglish():
 
 @app.route("/")
 def renderIndexPage():
+    return ''
     # Write the code to render template
 
 if __name__ == "__main__":
